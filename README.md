@@ -57,3 +57,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dheerujilagam&show_icons=true&locale=en" alt="dheerujilagam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dheerujilagam&" alt="dheerujilagam" /></p>
+
+[![Subhash's Leetcode stats](https://leetcard.jacoblin.cool/Subhash_2707?theme=white)](https://leetcode.com/Subhash_2707/)
+
+[![Subhash's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=subhash0712)](https://auth.geeksforgeeks.org/user/subhash0712)
