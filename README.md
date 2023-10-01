@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Chat Application](https://github.com/dheerujilagam/ChatApp)
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Application Development**
 
 - 👯 I’m looking to collaborate on **Full Stack and Android Development**
 
