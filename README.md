@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [Chat Application](https://github.com/dheerujilagam/ChatApp)
 
-- 📝 I regularly write articles on [Coding](Coding)
+- 📝 I regularly read articles on [Coding](Coding)
 
 - 💬 Ask me about **Competitive Programming**
 
